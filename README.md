@@ -12,6 +12,7 @@ Running genpw.py without any arguments will default to generating a 10 word long
 Running genpw.py with 1 integer argument will cause it to generate a password with the length specified by the argument. 
 
 Example:
+
 	python3 genpw.py 15
 
 This will generate a 15-word-long password. 
