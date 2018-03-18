@@ -55,5 +55,5 @@ Personally I think it's easier to remember a password made of 10 (obscure) words
 
 The words should be separated by spaces because otherwise your long passwords may be guessed by shorter password guessers e.g a 4 word strength password like "book case the rapist" can potentially be guessed by a 2-word guessing algorithm. 
 
-Note: If the words are not completely randomly chosen and randomly arranged then you no longer have any security guarantees. You can re-roll, but you must not modify the password to make it "easier to remember".  
+Note: If the words are not completely randomly chosen and randomly arranged then you no longer have any security guarantees. You can re-roll, but you must not modify the password to make it "easier to remember" (nor for any other reason).  
 
