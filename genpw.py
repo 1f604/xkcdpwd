@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-
 import sys
 import random
-
 
 if len(sys.argv) == 1:
     print("Defaulting to generating a 10 word long password")
