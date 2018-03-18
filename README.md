@@ -51,8 +51,8 @@ If you are drawing from a pool of 2^16 words then you will need about 10 words t
 
 If you are drawing from a pool of 2^6 chars then you will need about 25 characters to be safe. 
 
-**UPDATE:** A CMU study has found that using words instead of random characters does not increase memorability, making this entire exercise pointless. You might as well just remember 25 random characters instead. See: [Correct horse battery staple:
-Exploring the usability of system-assigned passphrases][http://cups.cs.cmu.edu/soups/2012/proceedings/a7_Shay.pdf]
+**UPDATE:** A CMU study has found that using words instead of random characters does not increase memorability, making this entire exercise pointless. You might as well just remember 25 random characters instead. See: (Correct horse battery staple:
+Exploring the usability of system-assigned passphrases)[http://cups.cs.cmu.edu/soups/2012/proceedings/a7_Shay.pdf]
 
 The words should be separated by spaces because otherwise your long passwords may be guessed by shorter password guessers e.g a 4 word strength password like "book case the rapist" can potentially be guessed by a 2-word guessing algorithm. 
 
