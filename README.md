@@ -9,7 +9,7 @@ genpw.py takes 0 or 1 arguments.
 
 Running genpw.py without any arguments will default to generating a 10 word long password. 
 
-Running genpw.py with 1 integer argument will cause it to generate a password with the length specified by the argument. 
+Running genpw.py with 1 integer argument will cause it to generate a n-word-long password where n is the argument supplied. 
 
 Example:
 
