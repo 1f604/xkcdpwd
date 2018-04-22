@@ -5,7 +5,7 @@ I wrote this because I didn't want to use the bloated xkcd password generators o
 
 # Usage
 
-genpw.py takes 0 or 1 arguments. 
+genpw.py and gench.py takes 0 or 1 arguments. 
 
 Running genpw.py without any arguments will default to generating a 10 word long password. 
 
@@ -16,6 +16,12 @@ Example:
 	python3 genpw.py 15
 
 This will generate a 15-word-long password. 
+
+Example:
+
+	python3 gench.py
+
+This will generate a 25-character-long password.
 
 To allow running the script without explicitly invoking python:
 
