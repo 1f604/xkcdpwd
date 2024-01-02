@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/1f604/util"
+	util "github.com/1f604/base53a"
 )
 
 func main() {
